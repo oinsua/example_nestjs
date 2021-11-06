@@ -1,0 +1,9 @@
+POST http://localhost:3000/tasks
+content-Type: application/json
+
+{
+ "name": "Testing Nest",
+ "description": "This is a new nest project",
+ "done": true
+}
+###

@@ -1,0 +1,9 @@
+put http://localhost:3000/tasks/27
+content-Type: application/json
+
+{
+ "name": "Testing Nest",
+ "description": "This is a new nest project",
+ "done": true
+}
+###
